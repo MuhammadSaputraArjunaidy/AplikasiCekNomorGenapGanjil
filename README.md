@@ -1,5 +1,5 @@
 
-# Aplikasi Cek Nomor Ganjil/Genap
+# Aplikasi Cek Nomor Ganjil Genap
 
 
 
@@ -10,15 +10,11 @@ aplikasi ini memungkinkan pengguna untuk memeriksa angka apakah termasuk genap a
 Berikut adalah deskripsi fitur-fitur utama aplikasi ini:
 
 1. Kolom Input:
-
 - Masukkan Angka: Kolom teks yang digunakan untuk memasukkan angka yang ingin dicek apakah genap atau ganjil.
-
 2. Tombol :
-
-- CEK: Tombol yang digunakan untuk memproses angka yang dimasukkan. Setelah tombol ini ditekan, aplikasi akan memeriksa apakah angka tersebut genap atau ganjil dan apakah angka tersebut bilangan prima lalu memberikan hasilnya.
-# Source Code
-
-```
+- CEK: Tombol yang digunakan untuk memproses angka yang dimasukkan. Setelah tombol ini ditekan, aplikasi akan memeriksa apakah angka tersebut genap atau ganjil dan apakah angka tersebut bilangan prima lalu memberikan hasilnya. 
+ # Source Code
+ ```java
  import javax.swing.JOptionPane;
 
 public class CekNomorForm extends javax.swing.JFrame {
@@ -224,10 +220,9 @@ public class CekNomorForm extends javax.swing.JFrame {
     // End of variables declaration                   
 }
 
+```
 
-        ```
-
-## Authors
+# Authors
 
 - MuhammadSaputraArjunaidy
 - 2210010300
@@ -235,4 +230,4 @@ public class CekNomorForm extends javax.swing.JFrame {
 - [@MuhammadSaputraArjunaidy](https://www.github.com/MuhammadSaputraArjunaidy)
 
 
-## Screenshot
+#  Screenshot
